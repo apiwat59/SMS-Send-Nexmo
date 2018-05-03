@@ -10,9 +10,7 @@
 #ใช้เวลาในการสร้างสคริปต์ทั้งสิ้น 2 ชม
 #ตัวสคริปต์มีไว้ใช้งานเเบบ Pentest นะครับไม่ได้มีไว้สำหรับโจมตีผู้อื่น หากใช้เพื่อโจมตีผู้อื่นผมขอไม่เกี่ยวข้องใดๆ
 
-git clone https://github.com/apiwat59/SMS-Send-Nexmo && chmod +x SMS-Send-Nexmo && cd SMS-Send-Nexmo && ./installer-sendmessage.sh 
-ติดตั้งเสร็จเเล้วก็ใช้ ตัวล่างได้เลย
-./SendMessage.sh   
+git clone https://github.com/apiwat59/SMS-Send-Nexmo && chmod +x SMS-Send-Nexmo && cd SMS-Send-Nexmo && ./installer-sendmessage.sh && ./SendMessage.sh   
 ใส่เบอร์เช่น: 6612345678                                                                                          
 หัวข้อความ: ชื่อคนส่ง                                                                                           
 ข้อความ: ข้อความอะไรเช่น kuy                                                                                            
